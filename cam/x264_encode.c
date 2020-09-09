@@ -1,11 +1,9 @@
 /**
  * 最简单的基于X264的视频编码器
  * Simplest X264 Encoder
- * jiangyu
+ * tmj
  * 
  * 本程序可以YUV格式的像素数据编码为H.264码流，是最简单的
- * 基于libx264的视频编码器
- *
  * This software encode YUV data to H.264 bitstream.
  * It's the simplest encoder example based on libx264.
  */
